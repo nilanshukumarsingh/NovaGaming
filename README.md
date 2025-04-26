@@ -59,7 +59,7 @@ NovaGaming/
 
 ### Contact
 
-![Contact](screenshots/Contact.png)
+![Contact](screenshots/contact.png)
 
 ## Contributing
 
