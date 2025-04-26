@@ -5,7 +5,7 @@ Nova Gaming is a futuristic web app built for gamers and Web3 enthusiasts, provi
 This is the frontend repository.
 The app is built using HTML, CSS, and JavaScript with assets such as videos and images for immersive UI/UX.
 
-Live Deployment: Nova Gaming on Netlify 🚀
+Live Deployment: Nova Gaming on https://nova-gaming.netlify.app/ 🚀
 
 ## Features
 
